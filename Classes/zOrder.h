@@ -1,0 +1,1 @@
+#define Z_BACKGROUND 0
